@@ -1,7 +1,7 @@
 {
   "name": "website-dl",
   "description": "Command-line tool for downloading whole websites",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Samuel Amoah <sa.am@programmer.net>",
   "keywords": [
     "scrape",
