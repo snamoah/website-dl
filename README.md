@@ -6,13 +6,11 @@ This is a command-line tool for downloading full websites. More like `wget`.
 ### Installation
 
 ```bash
-> yarn global add website-dl --prefix /usr/local
-```
+$ yarn global add website-dl --prefix /usr/local
 
 OR
 
-```bash
-> npm install -g website-dl
+$ npm install -g website-dl
 ```
 
 
@@ -20,7 +18,7 @@ OR
 
 
 ```bash
-> website-dl <url_of_site>
+$ website-dl <url_of_site>
 ```
 
 
