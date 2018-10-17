@@ -5,7 +5,7 @@ This is a command-line tool for downloading full websites. More like `wget`.
 
 ### Installation
 
-```bash
+```sh
 $ yarn global add website-dl --prefix /usr/local
 
 OR
@@ -17,7 +17,7 @@ $ npm install -g website-dl
 ### Usage
 
 
-```bash
+```sh
 $ website-dl <url_of_site>
 ```
 
